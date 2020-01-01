@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>591</width>
+     <height>331</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>1.1.1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>1.1.2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>1.2.1</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>新建列</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>非常不好</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>不好</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>一般</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>非常好</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>611</x>
+     <y>430</y>
+     <width>135</width>
+     <height>66</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QPushButton" name="pushButton">
+      <property name="text">
+       <string>归一化处理</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="text">
+       <string>返回主界面</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>653</x>
+     <y>487</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>652</x>
+     <y>579</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
 import math
-
+import json
+from pyahp import parse
 df = pd.read_excel('../ahp/testmodel张惠锋 - 副本.xlsx')
 # A-B
 list1 = [1, 4, 2, 5, 7, 12, 2, 7, 15, 19, 2, 6, 22, 25, 2, 5, 28, 30, 2, 4, 33, 35, 2, 4, 38, 40, 2, 4, 43, 45, 2, 4,

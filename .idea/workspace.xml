@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cdee3b3-453c-4931-882b-6018a147b94c" name="Default Changelist" comment="" />
+    <list default="true" id="5cdee3b3-453c-4931-882b-6018a147b94c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/tree显示自己的finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/交互/Dialog1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/交互/Dialog2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/交互/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/字体颜色.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/新弹出窗口.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/登陆界面.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/调用子窗口.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/42466d62026b6ddf.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/~$Scoresheet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/~$testmodel张惠锋.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/实施情况统计分析张惠锋 - 副本.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/实施情况统计分析张惠锋.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/实施情况统计分析张惠锋.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/实施情况统计分析朱玉华.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/无函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahp/无函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahp/权重计算11张惠锋.xlsx" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +36,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UAu50BOTS76xF699GCzzI2Zfgb" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ahp/无函数.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -46,7 +71,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main0">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="无函数 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StandardResearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PyQt5Study/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ahp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ahp/无函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="无函数" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="StandardResearch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +121,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/Documents/GitHub/PyQt5Study/bin/python" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PyQt5Study/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -96,12 +142,33 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/Documents/GitHub/PyQt5Study/bin/python" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PyQt5Study/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StandardResearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PyQt5Study/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Example/交互" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Example/交互/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +205,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/Documents/GitHub/PyQt5Study/bin/python" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PyQt5Study/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goodcood" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -157,13 +224,16 @@
       <item itemvalue="Python.main0" />
       <item itemvalue="Python.MainWindow" />
       <item itemvalue="Python.welcomepage" />
+      <item itemvalue="Python.无函数 (1)" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.main0" />
+        <item itemvalue="Python.无函数 (1)" />
         <item itemvalue="Python.无函数" />
         <item itemvalue="Python.MainWindow" />
-        <item itemvalue="Python.welcomepage" />
       </list>
     </recent_temporary>
   </component>
@@ -179,5 +249,18 @@
       <updated>1574811533887</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
